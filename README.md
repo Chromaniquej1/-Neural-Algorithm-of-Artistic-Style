@@ -11,7 +11,7 @@ Deep neural networks have already surpassed human level performance in tasks suc
  
  ![](https://miro.medium.com/max/647/1*ZgW520SZr1QkGoFd3xqYMw.jpeg)
  
- ## How to download VGG16 pretrained model
+ ## How to download VGG19 pretrained model
  
  ``` Python
  model = vgg19.VGG19(weights="imagenet", include_top=False)
